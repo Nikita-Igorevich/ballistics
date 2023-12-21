@@ -1,0 +1,69 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"third_party/GeographicLib/cmake/maintainer-man.cmake",
+			"third_party/GeographicLib/man/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 2
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "manpages::@7c1b1b1c9277a68ec8eb"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "usage::@7c1b1b1c9277a68ec8eb"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "htmlman::@7c1b1b1c9277a68ec8eb"
+		}
+	],
+	"id" : "man::@7c1b1b1c9277a68ec8eb",
+	"name" : "man",
+	"paths" : 
+	{
+		"build" : "third_party/GeographicLib/man",
+		"source" : "third_party/GeographicLib/man"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,694 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						35
+					]
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "third_party",
+					"childIndexes" : 
+					[
+						3,
+						14
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party-Debug-a2e0515af5b7021cdaa7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "third_party"
+				},
+				{
+					"build" : "third_party/GeographicLib",
+					"childIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.GeographicLib-Debug-f6319e0e7181eb22c74b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib",
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"build" : "third_party/GeographicLib/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.GeographicLib.src-Debug-90e623fc3e5970b62c1d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/src",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "third_party/GeographicLib/include/GeographicLib",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.GeographicLib.include.GeographicLib-Debug-df0b3d3091e3a1d3192e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/include/GeographicLib"
+				},
+				{
+					"build" : "third_party/GeographicLib/tools",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.GeographicLib.tools-Debug-1c74812fc01c0d881648.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/tools",
+					"targetIndexes" : 
+					[
+						2,
+						4,
+						7,
+						10,
+						12,
+						14,
+						15,
+						17,
+						20,
+						23,
+						25,
+						27,
+						42
+					]
+				},
+				{
+					"build" : "third_party/GeographicLib/man",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.GeographicLib.man-Debug-04f56be4693790ffb2e0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/man",
+					"targetIndexes" : 
+					[
+						32,
+						36,
+						37,
+						43
+					]
+				},
+				{
+					"build" : "third_party/GeographicLib/doc",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.GeographicLib.doc-Debug-0ecda3ac26810f0f374c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/doc"
+				},
+				{
+					"build" : "third_party/GeographicLib/examples",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.GeographicLib.examples-Debug-846a99d9a962cc15517c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/examples"
+				},
+				{
+					"build" : "third_party/GeographicLib/cmake",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.GeographicLib.cmake-Debug-25e73c706b642ae43f86.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/cmake"
+				},
+				{
+					"build" : "third_party/GeographicLib/tests",
+					"jsonFile" : "directory-third_party.GeographicLib.tests-Debug-a763453c0e4d582c7801.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/tests",
+					"targetIndexes" : 
+					[
+						31,
+						34,
+						38,
+						40,
+						41
+					]
+				},
+				{
+					"build" : "third_party/GeographicLib/experimental",
+					"jsonFile" : "directory-third_party.GeographicLib.experimental-Debug-cec6f098918c38824fdf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/experimental",
+					"targetIndexes" : 
+					[
+						18,
+						30
+					]
+				},
+				{
+					"build" : "third_party/GeographicLib/develop",
+					"jsonFile" : "directory-third_party.GeographicLib.develop-Debug-bb8bdd9e0e3cdba4695b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "third_party/GeographicLib/develop",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						5,
+						6,
+						8,
+						9,
+						11,
+						16,
+						19,
+						21,
+						22,
+						24,
+						26,
+						28,
+						33,
+						39
+					]
+				},
+				{
+					"build" : "third_party/eigen",
+					"jsonFile" : "directory-third_party.eigen-Debug-a0f0cfcf957808fddb3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "third_party/eigen"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Ballistics",
+					"targetIndexes" : 
+					[
+						1,
+						35
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					],
+					"name" : "GeographicLib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "Eigen",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 13,
+					"id" : "AreaEst::@0368242affda845fe43c",
+					"jsonFile" : "target-AreaEst-Debug-c67d75a0fec54f772a9c.json",
+					"name" : "AreaEst",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ballistics::@145eef247bfb46b6828c",
+					"jsonFile" : "target-Ballistics-Debug-00ae06f2e847cbf185da.json",
+					"name" : "Ballistics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "CartConvert::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-CartConvert-Debug-8a385a8eb0acdd612995.json",
+					"name" : "CartConvert",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ClosestApproach::@0368242affda845fe43c",
+					"jsonFile" : "target-ClosestApproach-Debug-711b70765748c17be7b7.json",
+					"name" : "ClosestApproach",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "ConicProj::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-ConicProj-Debug-352e051594fe355753b1.json",
+					"name" : "ConicProj",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ConicTest::@0368242affda845fe43c",
+					"jsonFile" : "target-ConicTest-Debug-672689ef1a7fceed367e.json",
+					"name" : "ConicTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "EllipticTest::@0368242affda845fe43c",
+					"jsonFile" : "target-EllipticTest-Debug-54e13ce6cfbcdcf6cb4a.json",
+					"name" : "EllipticTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "GeoConvert::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-GeoConvert-Debug-9da2ee6987708dfab281.json",
+					"name" : "GeoConvert",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "GeodExact::@0368242affda845fe43c",
+					"jsonFile" : "target-GeodExact-Debug-b31436853a7da4f0cdbe.json",
+					"name" : "GeodExact",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "GeodShort::@0368242affda845fe43c",
+					"jsonFile" : "target-GeodShort-Debug-c5e6393d7a12769bea6c.json",
+					"name" : "GeodShort",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "GeodSolve::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-GeodSolve-Debug-94676249169c97e7c0c1.json",
+					"name" : "GeodSolve",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "GeodTest::@0368242affda845fe43c",
+					"jsonFile" : "target-GeodTest-Debug-3a1587aad55174660c81.json",
+					"name" : "GeodTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "GeodesicProj::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-GeodesicProj-Debug-8da66e01606ef62e1cfc.json",
+					"name" : "GeodesicProj",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "GeographicLib_SHARED::@8f218b592da01ec2865b",
+					"jsonFile" : "target-GeographicLib_SHARED-Debug-d66f671262b0ed7fbf5d.json",
+					"name" : "GeographicLib_SHARED",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "GeoidEval::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-GeoidEval-Debug-d5eb0019b2c712e6202a.json",
+					"name" : "GeoidEval",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "Gravity::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-Gravity-Debug-c2fcce4f5bdda74aed2b.json",
+					"name" : "Gravity",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "HarmTest::@0368242affda845fe43c",
+					"jsonFile" : "target-HarmTest-Debug-5bb868c34ca755dda0a8.json",
+					"name" : "HarmTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "IntersectTool::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-IntersectTool-Debug-7dd37d07a03c7c3f4781.json",
+					"name" : "IntersectTool",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "JacobiConformal::@242de73d53d4909f7fd0",
+					"jsonFile" : "target-JacobiConformal-Debug-17b3e555ab92a5969e35.json",
+					"name" : "JacobiConformal",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "M12zero::@0368242affda845fe43c",
+					"jsonFile" : "target-M12zero-Debug-e35646224f4ea7dda600.json",
+					"name" : "M12zero",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "MagneticField::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-MagneticField-Debug-e4d7258d618c2ce551eb.json",
+					"name" : "MagneticField",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "NaNTester::@0368242affda845fe43c",
+					"jsonFile" : "target-NaNTester-Debug-0c08abf6eb56f846ad09.json",
+					"name" : "NaNTester",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "NormalTest::@0368242affda845fe43c",
+					"jsonFile" : "target-NormalTest-Debug-ba4557da8d90b5628314.json",
+					"name" : "NormalTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "Planimeter::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-Planimeter-Debug-4b2b6febae273ea6cb34.json",
+					"name" : "Planimeter",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ProjTest::@0368242affda845fe43c",
+					"jsonFile" : "target-ProjTest-Debug-8d138f4f5ca2cd7a287a.json",
+					"name" : "ProjTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "RhumbSolve::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-RhumbSolve-Debug-2d8918d59e263d0c7d45.json",
+					"name" : "RhumbSolve",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "TMTest::@0368242affda845fe43c",
+					"jsonFile" : "target-TMTest-Debug-a205279b6f9283f99bb8.json",
+					"name" : "TMTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "TransverseMercatorProj::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-TransverseMercatorProj-Debug-9f561172523326d96b37.json",
+					"name" : "TransverseMercatorProj",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "develprograms::@0368242affda845fe43c",
+					"jsonFile" : "target-develprograms-Debug-6dae5b0cb8bb979715fc.json",
+					"name" : "develprograms",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "exampleprograms::@24e426e8466338e46a24",
+					"jsonFile" : "target-exampleprograms-Debug-f7b5fc95579ed63a162f.json",
+					"name" : "exampleprograms",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "experimental::@242de73d53d4909f7fd0",
+					"jsonFile" : "target-experimental-Debug-e1b97d2f6d859a0c823c.json",
+					"name" : "experimental",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "geodtest::@234f3584291e5d427383",
+					"jsonFile" : "target-geodtest-Debug-dc4e51305bbff436d380.json",
+					"name" : "geodtest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "htmlman::@7c1b1b1c9277a68ec8eb",
+					"jsonFile" : "target-htmlman-Debug-bb8d22cc291d82c5de7f.json",
+					"name" : "htmlman",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "intersect::@0368242affda845fe43c",
+					"jsonFile" : "target-intersect-Debug-7dcecb4a02c02da57175.json",
+					"name" : "intersect",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "intersecttest::@234f3584291e5d427383",
+					"jsonFile" : "target-intersecttest-Debug-036f1d1f02894bede5d4.json",
+					"name" : "intersecttest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-d9872d99ceb3fe5c3578.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "man::@7c1b1b1c9277a68ec8eb",
+					"jsonFile" : "target-man-Debug-d43c1d78a5de712dca7a.json",
+					"name" : "man",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "manpages::@7c1b1b1c9277a68ec8eb",
+					"jsonFile" : "target-manpages-Debug-140c2a552e70c83596f5.json",
+					"name" : "manpages",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "polygontest::@234f3584291e5d427383",
+					"jsonFile" : "target-polygontest-Debug-13112894d5cfc42c126b.json",
+					"name" : "polygontest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "reformat::@0368242affda845fe43c",
+					"jsonFile" : "target-reformat-Debug-f3c7945643d31c353e58.json",
+					"name" : "reformat",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "signtest::@234f3584291e5d427383",
+					"jsonFile" : "target-signtest-Debug-ea7f1b54280d97b15952.json",
+					"name" : "signtest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "testprograms::@234f3584291e5d427383",
+					"jsonFile" : "target-testprograms-Debug-ccb8c1612951afe60223.json",
+					"name" : "testprograms",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "tools::@b6dc3c035b4ff8a28aad",
+					"jsonFile" : "target-tools-Debug-4e07d0522c129842b5ac.json",
+					"name" : "tools",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "usage::@7c1b1b1c9277a68ec8eb",
+					"jsonFile" : "target-usage-Debug-18e01d1f2c22978c4bc4.json",
+					"name" : "usage",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+		"source" : "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

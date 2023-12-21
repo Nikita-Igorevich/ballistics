@@ -1,0 +1,163 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"third_party/GeographicLib/tools/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "MagneticField::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "CartConvert::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "GeodSolve::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "Planimeter::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "GeodesicProj::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "ConicProj::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "GeoConvert::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "GeoidEval::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Gravity::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "RhumbSolve::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "TransverseMercatorProj::@b6dc3c035b4ff8a28aad"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "IntersectTool::@b6dc3c035b4ff8a28aad"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "tools"
+	},
+	"id" : "tools::@b6dc3c035b4ff8a28aad",
+	"name" : "tools",
+	"paths" : 
+	{
+		"build" : "third_party/GeographicLib/tools",
+		"source" : "third_party/GeographicLib/tools"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

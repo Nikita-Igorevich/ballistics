@@ -1,0 +1,66 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"include"
+		],
+		"files" : 
+		[
+			"third_party/GeographicLib/cmake/maintainer-man.cmake",
+			"third_party/GeographicLib/man/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "share/man/man1",
+			"paths" : 
+			[
+				"build/third_party/GeographicLib/man/CartConvert.1",
+				"build/third_party/GeographicLib/man/ConicProj.1",
+				"build/third_party/GeographicLib/man/GeodesicProj.1",
+				"build/third_party/GeographicLib/man/GeoConvert.1",
+				"build/third_party/GeographicLib/man/GeodSolve.1",
+				"build/third_party/GeographicLib/man/GeoidEval.1",
+				"build/third_party/GeographicLib/man/Gravity.1",
+				"build/third_party/GeographicLib/man/IntersectTool.1",
+				"build/third_party/GeographicLib/man/MagneticField.1",
+				"build/third_party/GeographicLib/man/Planimeter.1",
+				"build/third_party/GeographicLib/man/RhumbSolve.1",
+				"build/third_party/GeographicLib/man/TransverseMercatorProj.1"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "third_party/GeographicLib/man",
+		"source" : "third_party/GeographicLib/man"
+	}
+}

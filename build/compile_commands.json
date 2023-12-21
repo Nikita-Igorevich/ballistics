@@ -1,0 +1,470 @@
+[
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\src\\Ballistics\\forces\\ErartGravityForces.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\src\\Ballistics\\forces\\ErartGravityForces.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\src\\Ballistics\\forces\\ErartGravityForces.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\Ballistics\\forces\\ErartGravityForces.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/src -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/eigen/src -g -std=gnu++20 -o src\\CMakeFiles\\Ballistics.dir\\Ballistics\\forces\\ErartGravityForces.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\src\\Ballistics\\forces\\ErartGravityForces.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\src\\Ballistics\\forces\\ErartGravityForces.cpp",
+  "output": "src\\CMakeFiles\\Ballistics.dir\\Ballistics\\forces\\ErartGravityForces.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Accumulator.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Accumulator.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Accumulator.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Accumulator.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\AlbersEqualArea.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\AlbersEqualArea.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\AlbersEqualArea.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\AlbersEqualArea.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\AuxAngle.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\AuxAngle.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\AuxAngle.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\AuxAngle.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\AuxLatitude.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\AuxLatitude.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\AuxLatitude.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\AuxLatitude.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\AzimuthalEquidistant.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\AzimuthalEquidistant.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\AzimuthalEquidistant.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\AzimuthalEquidistant.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\CassiniSoldner.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\CassiniSoldner.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\CassiniSoldner.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\CassiniSoldner.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\CircularEngine.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\CircularEngine.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\CircularEngine.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\CircularEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\DAuxLatitude.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\DAuxLatitude.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\DAuxLatitude.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\DAuxLatitude.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\DMS.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\DMS.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\DMS.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\DMS.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\DST.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\DST.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\DST.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\DST.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Ellipsoid.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Ellipsoid.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Ellipsoid.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Ellipsoid.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\EllipticFunction.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\EllipticFunction.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\EllipticFunction.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\EllipticFunction.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GARS.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GARS.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GARS.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GARS.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GeoCoords.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GeoCoords.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GeoCoords.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GeoCoords.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Geocentric.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Geocentric.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Geocentric.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Geocentric.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Geodesic.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Geodesic.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Geodesic.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Geodesic.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GeodesicExact.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GeodesicExact.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GeodesicExact.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GeodesicExact.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GeodesicLine.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GeodesicLine.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GeodesicLine.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GeodesicLine.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GeodesicLineExact.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GeodesicLineExact.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GeodesicLineExact.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GeodesicLineExact.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Geohash.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Geohash.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Geohash.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Geohash.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Geoid.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Geoid.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Geoid.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Geoid.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Georef.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Georef.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Georef.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Georef.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Gnomonic.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Gnomonic.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Gnomonic.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Gnomonic.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GravityCircle.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GravityCircle.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GravityCircle.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GravityCircle.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GravityModel.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GravityModel.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\GravityModel.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\GravityModel.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Intersect.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Intersect.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Intersect.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Intersect.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\LambertConformalConic.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\LambertConformalConic.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\LambertConformalConic.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\LambertConformalConic.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\LocalCartesian.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\LocalCartesian.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\LocalCartesian.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\LocalCartesian.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\MGRS.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\MGRS.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\MGRS.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\MGRS.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\MagneticCircle.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\MagneticCircle.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\MagneticCircle.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\MagneticCircle.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\MagneticModel.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\MagneticModel.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\MagneticModel.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\MagneticModel.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Math.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Math.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Math.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Math.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\NormalGravity.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\NormalGravity.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\NormalGravity.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\NormalGravity.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\OSGB.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\OSGB.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\OSGB.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\OSGB.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\PolarStereographic.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\PolarStereographic.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\PolarStereographic.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\PolarStereographic.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\PolygonArea.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\PolygonArea.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\PolygonArea.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\PolygonArea.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Rhumb.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Rhumb.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Rhumb.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Rhumb.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\SphericalEngine.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\SphericalEngine.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\SphericalEngine.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\SphericalEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\TransverseMercator.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\TransverseMercator.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\TransverseMercator.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\TransverseMercator.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\TransverseMercatorExact.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\TransverseMercatorExact.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\TransverseMercatorExact.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\TransverseMercatorExact.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\UTMUPS.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\UTMUPS.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\UTMUPS.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\UTMUPS.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGeographicLib_SHARED_EXPORTS -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Utility.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Utility.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\src\\Utility.cpp",
+  "output": "third_party\\GeographicLib\\src\\CMakeFiles\\GeographicLib_SHARED.dir\\Utility.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\CartConvert.dir\\CartConvert.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\CartConvert.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\CartConvert.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\CartConvert.dir\\CartConvert.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\ConicProj.dir\\ConicProj.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\ConicProj.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\ConicProj.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\ConicProj.dir\\ConicProj.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\GeodesicProj.dir\\GeodesicProj.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\GeodesicProj.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\GeodesicProj.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\GeodesicProj.dir\\GeodesicProj.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\GeoConvert.dir\\GeoConvert.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\GeoConvert.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\GeoConvert.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\GeoConvert.dir\\GeoConvert.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\GeodSolve.dir\\GeodSolve.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\GeodSolve.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\GeodSolve.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\GeodSolve.dir\\GeodSolve.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\GeoidEval.dir\\GeoidEval.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\GeoidEval.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\GeoidEval.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\GeoidEval.dir\\GeoidEval.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\Gravity.dir\\Gravity.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\Gravity.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\Gravity.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\Gravity.dir\\Gravity.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\IntersectTool.dir\\IntersectTool.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\IntersectTool.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\IntersectTool.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\IntersectTool.dir\\IntersectTool.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\MagneticField.dir\\MagneticField.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\MagneticField.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\MagneticField.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\MagneticField.dir\\MagneticField.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\Planimeter.dir\\Planimeter.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\Planimeter.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\Planimeter.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\Planimeter.dir\\Planimeter.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\RhumbSolve.dir\\RhumbSolve.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\RhumbSolve.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\RhumbSolve.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\RhumbSolve.dir\\RhumbSolve.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/man -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tools\\CMakeFiles\\TransverseMercatorProj.dir\\TransverseMercatorProj.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\TransverseMercatorProj.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tools\\TransverseMercatorProj.cpp",
+  "output": "third_party\\GeographicLib\\tools\\CMakeFiles\\TransverseMercatorProj.dir\\TransverseMercatorProj.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tests\\CMakeFiles\\geodtest.dir\\geodtest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tests\\geodtest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tests\\geodtest.cpp",
+  "output": "third_party\\GeographicLib\\tests\\CMakeFiles\\geodtest.dir\\geodtest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tests\\CMakeFiles\\signtest.dir\\signtest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tests\\signtest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tests\\signtest.cpp",
+  "output": "third_party\\GeographicLib\\tests\\CMakeFiles\\signtest.dir\\signtest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tests\\CMakeFiles\\polygontest.dir\\polygontest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tests\\polygontest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tests\\polygontest.cpp",
+  "output": "third_party\\GeographicLib\\tests\\CMakeFiles\\polygontest.dir\\polygontest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\tests\\CMakeFiles\\intersecttest.dir\\intersecttest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tests\\intersecttest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\tests\\intersecttest.cpp",
+  "output": "third_party\\GeographicLib\\tests\\CMakeFiles\\intersecttest.dir\\intersecttest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGEOGRAPHICLIB_SHARED_LIB=1 -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\experimental\\CMakeFiles\\JacobiConformal.dir\\JacobiConformal.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\experimental\\JacobiConformal.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\experimental\\JacobiConformal.cpp",
+  "output": "third_party\\GeographicLib\\experimental\\CMakeFiles\\JacobiConformal.dir\\JacobiConformal.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\ProjTest.dir\\ProjTest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\ProjTest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\ProjTest.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\ProjTest.dir\\ProjTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\TMTest.dir\\TMTest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\TMTest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\TMTest.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\TMTest.dir\\TMTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\GeodTest.dir\\GeodTest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\GeodTest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\GeodTest.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\GeodTest.dir\\GeodTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\ConicTest.dir\\ConicTest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\ConicTest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\ConicTest.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\ConicTest.dir\\ConicTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\NaNTester.dir\\NaNTester.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\NaNTester.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\NaNTester.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\NaNTester.dir\\NaNTester.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\HarmTest.dir\\HarmTest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\HarmTest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\HarmTest.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\HarmTest.dir\\HarmTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\EllipticTest.dir\\EllipticTest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\EllipticTest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\EllipticTest.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\EllipticTest.dir\\EllipticTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\intersect.dir\\intersect.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\intersect.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\intersect.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\intersect.dir\\intersect.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\ClosestApproach.dir\\ClosestApproach.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\ClosestApproach.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\ClosestApproach.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\ClosestApproach.dir\\ClosestApproach.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\M12zero.dir\\M12zero.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\M12zero.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\M12zero.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\M12zero.dir\\M12zero.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\GeodShort.dir\\GeodShort.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\GeodShort.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\GeodShort.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\GeodShort.dir\\GeodShort.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\NormalTest.dir\\NormalTest.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\NormalTest.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\NormalTest.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\NormalTest.dir\\NormalTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\GeodExact.dir\\GeodExact.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\GeodExact.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\GeodExact.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\GeodExact.dir\\GeodExact.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\GeodExact.dir\\Geodesic30.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\Geodesic30.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\Geodesic30.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\GeodExact.dir\\Geodesic30.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\GeodExact.dir\\GeodesicLine30.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\GeodesicLine30.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\GeodesicLine30.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\GeodExact.dir\\GeodesicLine30.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build/third_party/GeographicLib/include -IC:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/third_party/GeographicLib/include  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\AreaEst.dir\\AreaEst.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\AreaEst.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\AreaEst.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\AreaEst.dir\\AreaEst.cpp.obj"
+},
+{
+  "directory": "C:/Users/HYPERPC/Documents/MATLAB/KPM/C++/Wien_Filter/bal/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -Wall -Wextra -Wfloat-conversion -Werror -g -std=c++11 -o third_party\\GeographicLib\\develop\\CMakeFiles\\reformat.dir\\reformat.cpp.obj -c C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\reformat.cpp",
+  "file": "C:\\Users\\HYPERPC\\Documents\\MATLAB\\KPM\\C++\\Wien_Filter\\bal\\third_party\\GeographicLib\\develop\\reformat.cpp",
+  "output": "third_party\\GeographicLib\\develop\\CMakeFiles\\reformat.dir\\reformat.cpp.obj"
+}
+]

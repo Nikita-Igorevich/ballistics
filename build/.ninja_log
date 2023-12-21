@@ -1,0 +1,17 @@
+# ninja log v5
+14	381	7248351766471564	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/AuxAngle.cpp.obj	9351e8ebefbd8061
+10	431	7248351766990182	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/Accumulator.cpp.obj	a508b5185c1c3e47
+27	448	7248351767159723	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/DAuxLatitude.cpp.obj	f611d5a8be68a4ae
+35	450	7248351767229535	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/Ellipsoid.cpp.obj	9a51c35604679dea
+19	492	7248351767688318	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/AzimuthalEquidistant.cpp.obj	a4e35c45dc9e66f3
+16	495	7248351767718232	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/AuxLatitude.cpp.obj	7e3352031f99f364
+12	503	7248351767788044	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/AlbersEqualArea.cpp.obj	3c81b4c4f75b6ea3
+50	515	7248351767927682	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/Geocentric.cpp.obj	bca9857f5d3c78c4
+38	525	7248351768017436	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/EllipticFunction.cpp.obj	e423f52c6d024167
+24	527	7248351768047347	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/CircularEngine.cpp.obj	efc007ea0dbc7c5f
+21	581	7248351768585915	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/CassiniSoldner.cpp.obj	e1b4e0ca44ede0c2
+40	656	7248351769333926	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/GARS.cpp.obj	fc0b8010795ae562
+29	713	7248351769892752	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/DMS.cpp.obj	ce3c10f16d85a777
+58	714	7248351769912397	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/Geodesic.cpp.obj	1d82786ce809140f
+43	767	7248351770441264	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/GeoCoords.cpp.obj	945960caa5a989eb
+32	886	7248351771631151	third_party/GeographicLib/src/CMakeFiles/GeographicLib_SHARED.dir/DST.cpp.obj	47367ea07d37dbf0

@@ -1,0 +1,157 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"third_party/GeographicLib/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 70,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 74,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 80,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 104,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/GeographicLib",
+			"paths" : 
+			[
+				{
+					"from" : "build/third_party/GeographicLib/cmake/project-config.cmake",
+					"to" : "geographiclib-config.cmake"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/GeographicLib",
+			"paths" : 
+			[
+				{
+					"from" : "build/third_party/GeographicLib/cmake/project-config-version.cmake",
+					"to" : "geographiclib-config-version.cmake"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/GeographicLib",
+			"exportName" : "targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "GeographicLib_SHARED::@8f218b592da01ec2865b",
+					"index" : 13
+				},
+				{
+					"id" : "GeographicLib::@8f218b592da01ec2865b",
+					"index" : 0
+				},
+				{
+					"id" : "CartConvert::@b6dc3c035b4ff8a28aad",
+					"index" : 2
+				},
+				{
+					"id" : "ConicProj::@b6dc3c035b4ff8a28aad",
+					"index" : 4
+				},
+				{
+					"id" : "GeodesicProj::@b6dc3c035b4ff8a28aad",
+					"index" : 12
+				},
+				{
+					"id" : "GeoConvert::@b6dc3c035b4ff8a28aad",
+					"index" : 7
+				},
+				{
+					"id" : "GeodSolve::@b6dc3c035b4ff8a28aad",
+					"index" : 10
+				},
+				{
+					"id" : "GeoidEval::@b6dc3c035b4ff8a28aad",
+					"index" : 14
+				},
+				{
+					"id" : "Gravity::@b6dc3c035b4ff8a28aad",
+					"index" : 15
+				},
+				{
+					"id" : "IntersectTool::@b6dc3c035b4ff8a28aad",
+					"index" : 17
+				},
+				{
+					"id" : "MagneticField::@b6dc3c035b4ff8a28aad",
+					"index" : 20
+				},
+				{
+					"id" : "Planimeter::@b6dc3c035b4ff8a28aad",
+					"index" : 23
+				},
+				{
+					"id" : "RhumbSolve::@b6dc3c035b4ff8a28aad",
+					"index" : 25
+				},
+				{
+					"id" : "TransverseMercatorProj::@b6dc3c035b4ff8a28aad",
+					"index" : 27
+				}
+			],
+			"paths" : 
+			[
+				"third_party/GeographicLib/cmake/CMakeFiles/Export/5acc1f8553cd6b105f0ed8d3a154af2b/geographiclib-targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/third_party/GeographicLib/cmake/geographiclib.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "third_party/GeographicLib/cmake",
+		"source" : "third_party/GeographicLib/cmake"
+	}
+}

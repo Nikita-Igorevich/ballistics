@@ -1,0 +1,193 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"third_party/GeographicLib/develop/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 83,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 67,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "TMTest::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "GeodTest::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "NaNTester::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "GeodShort::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "ProjTest::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "ClosestApproach::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "intersect::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "reformat::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "NormalTest::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "HarmTest::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "ConicTest::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "EllipticTest::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "GeodExact::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "M12zero::@0368242affda845fe43c"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "AreaEst::@0368242affda845fe43c"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "develop"
+	},
+	"id" : "develprograms::@0368242affda845fe43c",
+	"name" : "develprograms",
+	"paths" : 
+	{
+		"build" : "third_party/GeographicLib/develop",
+		"source" : "third_party/GeographicLib/develop"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
